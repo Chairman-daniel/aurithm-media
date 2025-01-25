@@ -12,7 +12,7 @@ Aurithm Media was established to empower brands and individuals with innovative 
 <li style="list-style: square;">User-Friendly Interface: Dark mode design for a modern and professional appearance.</li>
 
 # Technologies Used
-####Aurithm Media's website and services are powered by:
+#### Aurithm Media's website and services are powered by:
 
 HTML, CSS, and JavaScript for front-end development.
 PHP for back-end processing.
