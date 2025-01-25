@@ -25,8 +25,8 @@ To explore Aurithm Media or apply for a role:
 Navigate through the services or job application sections.
 For inquiries, contact us via the website.
 
-##Future Goals
-####Aurithm Media is focused on expanding its services to include:
+## Future Goals <br>
+#### Aurithm Media is focused on expanding its services to include:
 
 Video production for businesses and creators.
 Advanced analytics for tracking campaign performance.
